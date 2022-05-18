@@ -1,0 +1,1 @@
+.box{display:flex}.box .itmes{box-sizing:border-box;padding:50px;flex:100%}.box.items_2 .items{flex:50%;flex-shrink:0}
